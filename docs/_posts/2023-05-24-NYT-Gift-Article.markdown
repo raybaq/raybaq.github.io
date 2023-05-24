@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to My Blog"
+title:  "Rice Gets Reimagined"
 date:   2023-05-24 15:48:00 +0800
 categories: nyt
 ---
